@@ -5,8 +5,8 @@ This project acts as a water quality tester and also sends the collected data vi
 
 The important components are the 8051 microcontroller and GSM module. It is the microcontroller that processes the data and acts as the integrator between the testing (sensors) and the user interface (GSM and LCD display) components. The GSM module acts as a wireless transmittor that transmits the processed data to the monitoring centre via SMS. The microcontroller is coded using embedded C language.
 
-The web link for complete project description: [Water quality management system]()
+The web link for complete project description: [Water quality management system](http://www.ijarcsms.com/docs/paper/volume2/issue1/v2i1-0045.pdf)
 
-The web link for description of microcontroller: [8051]()
+The web link for description of microcontroller: [AT80F51](https://pdf1.alldatasheet.com/datasheet-pdf/view/56206/ATMEL/AT80F51.html)
 
-The web link for description of GSM module: [GSM]()
+The web link for description of GSM module: [SIM 300](https://www.alldatasheet.com/view.jsp?Searchword=SIM300)
