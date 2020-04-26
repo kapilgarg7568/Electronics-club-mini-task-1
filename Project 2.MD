@@ -1,6 +1,6 @@
-Project 2: Boolean expression minimizer
+__Project 2: Boolean expression minimizer__
 
-Description:
+__Description:__
 
 This simple circuit aims at minimizing the boolean expression given in terms of minterms. 
 A keypad consisting of 9 digits is used where the first 8 keys act as the minterms and the ninth key acts as the next button. 
@@ -14,8 +14,10 @@ In this particular project, it is coded according to the Quine-McCluksey algorit
 
 The web link for the project description in detail: [Boolean algebra calculator](https://www.electronicshub.org/boolean-algebra-calculator/)
 
+Flow chart:
 ![Flow chart image:](https://www.electronicshub.org/wp-content/uploads/2013/05/Boolean-Algebra-Calculator.jpg)
 
+Circuit image:
 ![Circuit image:](https://www.electronicshub.org/wp-content/uploads/2013/05/Circuit-Diagram-of-Boolean-Algebra-Calculator.jpg)
 
 The web link for description about the ATMEGA16L microcontroller: [ATmega16](http://ww1.microchip.com/downloads/en/devicedoc/doc2466.pdf)
