@@ -15,3 +15,4 @@ In this particular project, it is coded according to the Quine-McCluksey algorit
 The web link for the project description in detail: https://www.electronicshub.org/boolean-algebra-calculator/
 
 The web link for description about the ATMEGA16L microcontroller: http://ww1.microchip.com/downloads/en/devicedoc/doc2466.pdf
+![Flow chart]
