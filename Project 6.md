@@ -11,6 +11,6 @@ Circuit diagram:
 
 ![circuit](https://pic-microcontroller.com/wp-content/uploads/2015/02/Electronic-Voting-Machine-Using-PIC-Microcontroller.png)
 
-The web link for the description of the microcontroller:[PIC16f877](https://components101.com/microcontrollers/pic16f887-microcontroller)
+The web link for the description of the microcontroller: [PIC16f877](https://components101.com/microcontrollers/pic16f887-microcontroller)
 
-The web link for the description of the LCD:[]()
+The web link for the description of the LCD display: [16x2 LCD](https://components101.com/16x2-lcd-pinout-datasheet)
