@@ -15,7 +15,7 @@ In this particular project, it is coded according to the Quine-McCluksey algorit
 The web link for the project description in detail: [Boolean algebra calculator](https://www.electronicshub.org/boolean-algebra-calculator/)
 
 Flow chart:
-![Alt Flow chart image:](https://www.electronicshub.org/wp-content/uploads/2013/05/Boolean-Algebra-Calculator.jpg)
+(https://www.electronicshub.org/wp-content/uploads/2013/05/Boolean-Algebra-Calculator.jpg)
 
 Circuit image:
 ![Circuit image:](https://www.electronicshub.org/wp-content/uploads/2013/05/Circuit-Diagram-of-Boolean-Algebra-Calculator.jpg)
