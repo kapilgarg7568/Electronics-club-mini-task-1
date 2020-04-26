@@ -12,7 +12,10 @@ Also the main component is the ATMEGA16L microcontroller. It has various applica
 Being a microcontroller, it can be used in systems like temperature controller, gas leakage indicator, etc. 
 In this particular project, it is coded according to the Quine-McCluksey algorithm.
 
-The web link for the project description in detail:[Boolean algebra calculator](https://www.electronicshub.org/boolean-algebra-calculator/)
+The web link for the project description in detail: [Boolean algebra calculator](https://www.electronicshub.org/boolean-algebra-calculator/)
 
-The web link for description about the ATMEGA16L microcontroller: http://ww1.microchip.com/downloads/en/devicedoc/doc2466.pdf
+![Flow chart image:](https://www.electronicshub.org/wp-content/uploads/2013/05/Boolean-Algebra-Calculator.jpg)
 
+![Circuit image:](https://www.electronicshub.org/wp-content/uploads/2013/05/Circuit-Diagram-of-Boolean-Algebra-Calculator.jpg)
+
+The web link for description about the ATMEGA16L microcontroller: [ATmega16](http://ww1.microchip.com/downloads/en/devicedoc/doc2466.pdf)
