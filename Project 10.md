@@ -15,8 +15,8 @@ The ARM microcontroller is coded using VB (Visual basic) language. The data to b
 
 The web link for detailed description of the project: [Wireless electronic notice board](http://inpressco.com/wp-content/uploads/2014/04/Paper54753-756.pdf)
 
-The web link for description of microcontroller: [LPC2138]()
+The web link for description of microcontroller: [LPC2138](https://www.alldatasheet.com/view.jsp?Searchword=Lpc2138%20datasheet&gclid=EAIaIQobChMI6Kyk382G6QIVzBWPCh3ykAPREAAYASAAEgLImPD_BwE)
 
-The web link for description of zigbee module: [XBEE and XBEE Pro]()
+The web link for description of zigbee module: [XBEE and XBEE Pro](https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Datasheet.pdf)
 
 The web link for description of LCD display: [20x4 LCD](https://www.vishay.com/docs/37314/lcd020n004l.pdf)
