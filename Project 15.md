@@ -21,6 +21,6 @@ The web link for description of the Wi-Fi dongle: [Edimax EW 7811 UN](https://da
 
 The web link for description of the Arduino board: [Arduino UNO](https://components101.com/microcontrollers/arduino-uno)
 
-The web link for description of bluetooth module: [HC-05]()
+The web link for description of bluetooth module: [HC-05](https://www.electronicaestudio.com/docs/istd016A.pdf)
 
 The web link for description about Wi-Fi module: [ESP8266]()
