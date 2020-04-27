@@ -9,6 +9,6 @@ The web link for complete project description: [Object sorting robot using image
 
 The web link for description of microcontroller: [LPC2138]()
 
-The web link for description of motor driver: [L293D]()
+The web link for description of motor driver: [L293D](http://www.ti.com/lit/ds/symlink/l293.pdf)
 
 The web link for description of LCD display: [16x2 LCD]()
