@@ -23,6 +23,7 @@ Arduino uno
 
 Bluetooth module  or ESP8266
 
+________________________________________________________________________________________________________________________________________
 The web link for complete project description: [RPi controlled webcam robot](https://maker.pro/raspberry-pi/projects/raspberry-pi-webcam-robot/)
 
 The web link for description of the Wi-Fi dongle: [Edimax EW 7811 UN](https://datasheet.octopart.com/EW-7811UN-Edimax-datasheet-61206140.pdf)
