@@ -9,4 +9,4 @@ The web link for description of the microcontroller: [PIC16F877A](https://datash
 
 The web link for description of the keypad: [4x3 keypad](https://www.futurlec.com/Keypad3x4.shtml)
 
-The web link for description of LCD display: [16x2 LCD]()
+The web link for description of LCD display: [16x2 LCD](https://components101.com/16x2-lcd-pinout-datasheet)
