@@ -17,4 +17,4 @@ Circuit diagrams:
 
 ![8051](https://www.electronicshub.org/wp-content/uploads/2016/08/RFID-based-Attendance-System-Circuit-Diagram.jpg)
 
-The web link for description of LCD display: [16x2 LCD]()
+The web link for description of LCD display: [16x2 LCD](https://components101.com/16x2-lcd-pinout-datasheet)
