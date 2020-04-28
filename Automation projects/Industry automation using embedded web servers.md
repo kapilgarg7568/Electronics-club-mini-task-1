@@ -1,4 +1,4 @@
-__Project 22: Industry automation using embedded web servers__
+__Project 7: Industry automation using embedded web servers__
 
 __Description:__
 In this project, various physical parameters like temperature, pressure, etc. are measured using sensors and monitored. If required, they are also controlled by relay controlling the associated control devices like exhaust fans. All the processing is done by an ARM microcontroller and the embedded web servers are updated based on the authentication received from authorised personnel. 
