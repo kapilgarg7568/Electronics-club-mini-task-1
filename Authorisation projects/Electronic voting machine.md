@@ -1,4 +1,4 @@
-__Project 6: Electronic voting machine__
+__Project 1: Electronic voting machine__
 
 __Description:__
 This project acts as an electronic voting machine. It has a master button, a count button and buttons for candidates. A person can cast his vote only after pressing the master button. After pressing the master button once and any other button following that, the system resets back to the original state. In this way, the person can vote only once. Also, a count button is present which when pressed will show the count of votes for different candidates. A 16x2 LCD display is used to display all the information.
