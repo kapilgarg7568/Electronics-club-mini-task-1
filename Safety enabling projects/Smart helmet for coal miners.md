@@ -1,4 +1,4 @@
-__Project 8: Smart helmet for coal miners__
+__Project 19: Smart helmet for coal miners__
 
 __Description:__
 This helmet is integrated with a simple circuit which detects the presence of any harmful gases, temperature and humidity in an area and alerts its user based on the data recieved. A microcontroller and a Zigbee module are used to process and monitor the data. Zigbee is used since it is ideal for wireless PAN networks.
