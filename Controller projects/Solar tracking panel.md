@@ -1,4 +1,4 @@
-__Project 11: Solar tracking panel__
+__Project 8: Solar tracking panel__
 
 __Description:__
 This is a simple project in which a solar panel is automatically rotated according to its relative position with respect to the sun to store maximum electrical energy. Two LDRs are placed on either side of the panel. Since their resistances vary based on the intensity of light that falls on them, the voltage drop across them will vary when connected in series with a protector resistor across a 5V battery according to the relative position with the sun. These voltage readings are used as inputs to a microcontroller which are processed and based on that, a servo motor connected to the panel is rotated.
