@@ -13,8 +13,8 @@ No need to maually enter the data as it can be automatically stored in this proj
 
 The web link for complete project description: [Automated electricity billing system](https://www.arcjournals.org/pdfs/ijirec/v1-i5/1.pdf)
 
-The web link for description about Zigbee module: [Xbee and Xbee Pro]()
+The web link for description about Zigbee module: [Xbee and Xbee Pro](https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Datasheet.pdf)
 
 The web link for description about GSM module: [SIM 300](https://www.alldatasheet.com/view.jsp?Searchword=SIM300)
 
-The web link for description about microcontroller: [ATMEGA32]()
+The web link for description about microcontroller: [ATMEGA32](http://ww1.microchip.com/downloads/en/devicedoc/doc2503.pdf)
