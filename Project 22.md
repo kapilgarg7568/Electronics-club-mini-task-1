@@ -7,6 +7,6 @@ For wireless communication, an ethernet module is attached to the microcontrolle
 
 The web link for detailed project description: [Industry automation using embedded web servers](http://troindia.in/journal/ijcesr/vol2iss8/1=6.pdf)
 
-The web link for description of microcontroller: [LPC2138]()
+The web link for description of microcontroller: [LPC2138](https://www.alldatasheet.com/view.jsp?Searchword=Lpc2138%20datasheet&gclid=EAIaIQobChMI6Kyk382G6QIVzBWPCh3ykAPREAAYASAAEgLImPD_BwE)
 
 The web link for description of LCD display: [16x2 LCD](https://components101.com/16x2-lcd-pinout-datasheet)
