@@ -7,6 +7,6 @@ This project has a lot of advantages over joystick and remote control technologi
 
 The web link for complete project description: [3D gesture controlled robot](https://www.ijsr.net/archive/v3i3/MDIwMTMxMTgz.pdf)
 
-The web link for description of zigbee module: [Xbee and Xbee Pro]()
+The web link for description of zigbee module: [Xbee and Xbee Pro](https://www.sparkfun.com/datasheets/Wireless/Zigbee/XBee-Datasheet.pdf)
 
 The web link for description of microcontroller: [PIC16F877A]()
