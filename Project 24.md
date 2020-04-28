@@ -5,9 +5,9 @@ This is a simple project where a juice vending machine can be activated wireless
 
 The web link for the detailed project description: [Electronic juice vending machine](https://nevonprojects.com/android-powered-juice-vending-machine/)
 
-The web link for description about LCD display: [16x2 LCD]()
+The web link for description of the bluetooth module: [HC-05](https://www.electronicaestudio.com/docs/istd016A.pdf)
 
-The web link for description about bluetooth module: [HC-05]()
+The web link for description about the LCD display: [16x2 LCD](https://components101.com/16x2-lcd-pinout-datasheet)
 
 The web link for description about microcontroller: [ATMEGA328P]()
 
