@@ -9,8 +9,8 @@ The web link for detailed project description: [Smart wheel chair](https://nevon
 
 The web lnik for description about RPi: [RPi 3](https://www.raspberrypi.org/documentation/hardware/computemodule/datasheets/rpi_DATA_CM3plus_1p0.pdf)
 
-The web link for description about GSM module: [SIM 300]()
+The web link for description of GPS module: [SR-92](https://d1.amobbs.com/bbs_upload782111/files_10/ourdev_334943.pdf)
 
-The web link for description about GPS module: []()
+The web link for description of GSM module: [SIM 300](https://www.alldatasheet.com/view.jsp?Searchword=SIM300)
 
 The web link for description about RF module: [RF Tx Rx](https://www.elprocus.com/rf-module-transmitter-receiver/)
