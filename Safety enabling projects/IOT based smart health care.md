@@ -1,4 +1,4 @@
-__Project 12: IOT based smart health care__
+__Project 17: IOT based smart health care__
 
 __Description:__
 Internet of things or IOT is an important technology existing in the current era. It is employed to send or receive messages via the internet. This project uses this technology to constanly store the patients' health conditions in webpages and also alerts the doctors if anything goes wrong. Also, a GSM module is present which sends an SMS to the doctor and hence, alerting him. If the data of some patient is needed, the doctor can always type the required website name and get the info. The websites also get refreshed periodically based on the data obtained from the microcontroller.
