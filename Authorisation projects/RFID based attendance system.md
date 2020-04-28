@@ -1,4 +1,4 @@
-__Project 13: RFID based attendance system__
+__Project 3: RFID based attendance system__
 
 __Description:__
 This is a simple project where RFID technology is used to take attendance automatically. An RFID reader is connected to a microcontroller which is connected to an LCD display and database. All the students are given uniqye RFID tags. When entering a class, they must place the RFID tag in front of the RFID reader. If the tag is present in the database, the concerned student is marked present. If a tag is placed whose number does not exist in the database, the LCD displays a message that the user is unauthorised.
