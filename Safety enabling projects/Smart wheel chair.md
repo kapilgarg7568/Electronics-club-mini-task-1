@@ -1,4 +1,4 @@
-__Project 23: Smart wheel chair__
+__Project 20: Smart wheel chair__
 
 __Description:__
 This project is a smart wheel chair which can be controlled wirelessly using RF technology. An touchscreen display is connected to a Raspberry Pi microcomputer which in turn is connected to a mic, GPS and GSM modules and also to an RF transmitter. The RF receiver is connected to motor drivers which are connected to the servo motors.
