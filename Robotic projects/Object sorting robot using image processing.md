@@ -1,4 +1,4 @@
-__Project 16: Object sorting robot using image processing__
+__Project 13: Object sorting robot using image processing__
 
 __Description:__
 This project is a simple bot which classifies objects based on their colour, picks them and places them are required spots. A webcam is used to capture the images and MATLAB software is used to process and classify the images based on color. According to the processed data, the ARM microcontroller sends output to an LCD display and also activates the robot's arm and gripper motors to pick the object.
