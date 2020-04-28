@@ -1,4 +1,4 @@
-__Project 21: 3D Gesture controller robot__
+__Project 21: 3D Gesture controlled robot__
 
 __Description:__
 In this project, a glove attached to a MEMS accelerometer sensor is worn by the user. The tilt of his hand is sensed by the sensor and sent to a microcontroller which is connected to a zigbee module. This zignbee wireless transceiver transmits the message to the robot. This robot is also controlled by a microcontroller which is attached to a zigbee receiver module.
