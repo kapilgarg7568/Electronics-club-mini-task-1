@@ -1,4 +1,4 @@
-__Project 10: Wireless electronic notice board__
+__Project 11: Wireless electronic notice board__
 
 __Description:__
 This project aims at acting as a small notice board which displays messages on an LCD using wireless technology. Also, it contains a human presence detecting system and hence, can automatically turn the lights on or off in that room according to the data obtained from the PIR sensors it has.
