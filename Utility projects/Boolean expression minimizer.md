@@ -1,4 +1,4 @@
-__Project 2: Boolean expression minimizer__
+__Project 22: Boolean expression minimizer__
 
 __Description:__
 
