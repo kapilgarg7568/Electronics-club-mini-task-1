@@ -7,7 +7,7 @@ The principle of detecting crack is based on the working of LDR. LDR is a light-
 
 The web link for detailed project description: [Railway crack detecting robot](http://ijsetr.org/wp-content/uploads/2014/05/IJSETR-VOL-3-ISSUE-5-1453-1457.pdf)
 
-The web link for the description of microcontroller: [AT89C51]()
+The web link for the description of microcontroller: [AT89C51](http://www.keil.com/dd/docs/datashts/atmel/at89c51_ds.pdf)
 
 The web link for description of GPS module: [SR-92](https://d1.amobbs.com/bbs_upload782111/files_10/ourdev_334943.pdf)
 
