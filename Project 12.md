@@ -12,3 +12,5 @@ The web link for description of the microcontroller: [PIC18F46K22](https://www.a
 The web link for description of the GSM module: [SIM 300](https://www.alldatasheet.com/view.jsp?Searchword=SIM300)
 
 The web link for description of the Wi-Fi module: [ESP8266](https://components101.com/wireless/esp8266-pinout-configuration-features-datasheet)
+
+![stonks](https://media3.giphy.com/media/YnkMcHgNIMW4Yfmjxr/giphy.gif)
