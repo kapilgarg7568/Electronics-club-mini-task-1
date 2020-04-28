@@ -1,4 +1,4 @@
-__Project 19: Automated electricity billing system__
+__Project 5: Automated electricity billing system__
 
 __Description:__
 In this project, the power consumed (in Kwh) is directly transmitted to the electricity board as well as to the consumer via Labview, Zigbee and GSM technologies. An ATMEGA32 microcontroller is used to collect the data, Zigbee is used to wirelessly transmit it, Labview for calculating the bill amount based on the power consumed and GSM to send an SMS to the consumer.
