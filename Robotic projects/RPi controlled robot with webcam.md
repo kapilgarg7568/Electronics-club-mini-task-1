@@ -1,4 +1,4 @@
-__Project 15: RPi controlled robot with webcam__
+__Project 16: RPi controlled robot with webcam__
 
 __Description:__
 This is a simple project where a two-wheeler bot is controlled by a raspberry pi microcomputer and arduino microcontroller. First, a small bot is made using servo motors that are attched to the arduino board. This arduino board is attched to  a bluetooth module to enable wireless control using an android app. The RPi microcomputer is also present and connected to a webcam. The video taken by the webcam is transceived by the RPi to a computer across a Wi-Fi dongle. This simple bot can be used for spying purposes and in places which humans can't reach. If bluetooth module seems to have a short range, we can integrate an ESP8266 Wi-Fi module with the arduino board.
