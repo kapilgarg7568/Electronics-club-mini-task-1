@@ -1,4 +1,4 @@
-__Project 5: Obstacle avoiding robot__
+__Project 14: Obstacle avoiding robot__
 
 __Description:__
 This is a simple mini-project where a small robot detects obstacles based on the data received by the IR sensors placed on its front. The design of the bot is it has two motor wheels at the back and a free wheel at the front. Also, two infrared sensors are mounted on either side at the front such that the sensors has maximum coverage. Based on the data received fro  the sensors, the bot decides whether to turn left or right or continue straight.
