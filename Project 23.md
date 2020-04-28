@@ -5,6 +5,10 @@ This project is a smart wheel chair which can be controlled wirelessly using RF 
 
 When the user touches the touchscreen to give commands, the RPi proceeses it and sends some signals to the motor drivers via the RF module. Also, if the user falls and gets hurt, he can inform the assistant by pressing an emergency button or even by voice command via the mic. Either of these two commands will trigger the microcomputer to send the location obtained from the GPS module to the assistant as an SMS via the GSM module.
 
+Block diagram:
+
+![block](https://nevonprojects.com/wp-content/uploads/2019/01/Raspberry-wheelchair-safety-BlockSmall.jpg)
+
 The web link for detailed project description: [Smart wheel chair](https://nevonprojects.com/smart-stand-up-wheelchair-using-raspberry-pi-and-rf-controller/)
 
 The web lnik for description about RPi: [RPi 3](https://www.raspberrypi.org/documentation/hardware/computemodule/datasheets/rpi_DATA_CM3plus_1p0.pdf)
