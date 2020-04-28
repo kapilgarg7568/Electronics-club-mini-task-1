@@ -1,4 +1,4 @@
-__Project 18: Home automation using Raspberry Pi__
+__Project 5: Home automation using Raspberry Pi__
 
 __Description:__
 In this project, wireless home automation is achieved using Raspberry Pi microcomputer. In the proposed project, the features are:
