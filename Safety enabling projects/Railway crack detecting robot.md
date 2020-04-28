@@ -1,4 +1,4 @@
-__Project 20: Railway crack detecting robot__
+__Project 18: Railway crack detecting robot__
 
 __Description:__
 This is a simple robot which detects the cracks on railway lines using an LED-LDR detection mechanism. The robot has 4 dc motors which serves as the locomoters of the bot. Also, it has a GPS and a  GSM modules for wireless transmission of the location to the authorised people. All these modules are integrated using an AT89C51 microcontroller.
