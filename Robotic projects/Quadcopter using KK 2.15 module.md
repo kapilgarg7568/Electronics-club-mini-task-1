@@ -1,4 +1,4 @@
-__Project 9: Quadcopter using KK 2.15 module__
+__Project 15: Quadcopter using KK 2.15 module__
 
 __Description:__
 This is a small quadcopter which is controlled by __KK 2.15 Flight__ and __FlySky FS-T6__ controllers. Here the FlySky FS-T6 is used as the remote controller and KK 2.15 Flight as the microcontroller to control the position of the quadcopter. Four motors are attached to a frame which are controlled by electronic speed controllers. These controllers are further controlled by the KK 2.15 Flight microcontroller. This microcontroller is wirelessly controlled by the Flysky FS-T6 remote controller. This project can be even more improvised by integrating camera, mic and microcomputer like RPi to store data if needed.
