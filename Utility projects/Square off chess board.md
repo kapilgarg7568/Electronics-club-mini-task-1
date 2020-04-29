@@ -5,8 +5,6 @@ This is a pretty complex project which is a smart chess board controlled by the 
 
 The arduino mega 2560 microcontroller is used as its core and all the decisions taken by the board are based on the code burnt in the microcontroller. 
 
-![gen](https://i.gifer.com/kHQ.gif)
-
 The web link for detailed project description: [Square off chess board](https://blog.arduino.cc/2016/10/17/square-off-is-a-chess-board-with-a-high-tech-twist/)
 
 The web link about description of the microcontroller: [Arduino Mega 2560](https://www.theengineeringprojects.com/2018/06/introduction-to-arduino-mega-2560.html)
@@ -14,5 +12,7 @@ The web link about description of the microcontroller: [Arduino Mega 2560](https
 Pin diagram:
 
 ![pin](https://www.theengineeringprojects.com/wp-content/uploads/2018/06/introduction-to-arduino-mega-5.png)
+
+![gen](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fclapping-gifs&psig=AOvVaw1dQTA-wBl8Txdzx2-_DEzf&ust=1588225436044000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiUkJf4jOkCFQAAAAAdAAAAABAK)
 
 
