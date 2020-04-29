@@ -13,6 +13,4 @@ Pin diagram:
 
 ![pin](https://www.theengineeringprojects.com/wp-content/uploads/2018/06/introduction-to-arduino-mega-5.png)
 
-![gen](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fclapping-gifs&psig=AOvVaw1dQTA-wBl8Txdzx2-_DEzf&ust=1588225436044000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiUkJf4jOkCFQAAAAAdAAAAABAK)
-
-
+![gen](https://media.tenor.com/images/21a157d32539f95c14c95899bce099a6/tenor.gif)
