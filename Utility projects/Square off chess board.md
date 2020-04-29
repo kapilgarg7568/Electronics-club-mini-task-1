@@ -1,7 +1,7 @@
 __Project 24: Square off chess board__
 
 __Description:__
-This is a pretty complex project which is a smart chess board controlled by the arduino microcontoller. This chess board allows the user to play chess with people who are staying far away from the destination by replicating their moves on their own. Also, live matches can be simulated by this board and hence, this board can also be used for chess study and analysis purposes. Moreover, the board also has an in-built AI whose levels vary from 0-20 and hence humans can also play against the AI for building their skills. 
+This is a pretty complex project which is a smart chess board controlled by the arduino microcontoller. This chess board allows the user to play chess with people who are staying far away from the destination by replicating their moves on its own. Also, live matches can be simulated by this board and hence, this board can also be used for chess study and analysis purposes. Moreover, the board also has an in-built AI whose levels vary from 0-20 and hence humans can also play against the AI for building their skills. 
 
 The arduino mega 2560 microcontroller is used as its core and all the decisions taken by the board are based on the code burnt in the microcontroller. 
 
