@@ -1,4 +1,4 @@
-__Project 25: Water quality measurement system__
+__Project 26: Water quality measurement system__
 
 __Description:__
 This project acts as a water quality tester and also sends the collected data via GSM module for monitoring. It is a simple project which comprises of sensors to measure the required values, a microcontroller to process those values, an LCD display and a GSM module for data monitoring. It has a lot of scope since the time taken to note the values using this device would be very much lesser than the time taken in conventional methods.
