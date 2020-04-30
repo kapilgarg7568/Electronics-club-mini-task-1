@@ -54,3 +54,17 @@ __Safety enabling projects:__
 19. [Smart helmet for coal miners](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Safety%20enabling%20projects/Smart%20helmet%20for%20coal%20miners.md)
 
 20. [Smart wheel chair](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Safety%20enabling%20projects/Smart%20wheel%20chair.md)
+
+__Utility projects:__
+
+21. [Automatic solar grass cutter](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Utility%20projects/Automatic%20solar%20grass%20cutter.md)
+
+22. [Boolean expression minimizer](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Utility%20projects/Boolean%20expression%20minimizer.md)
+
+23. [Electronic juice vending machine](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Utility%20projects/Electronic%20juice%20vending%20machine.md)
+
+24. [Square off chess board](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Utility%20projects/Square%20off%20chess%20board.md)
+
+25. [Touchscreen Music Player for Your Car](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Utility%20projects/Touchscreen%20Music%20Player%20for%20Your%20Car.MD)
+
+26. [Water quality measurement system](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Utility%20projects/Water%20quality%20measurement%20system.md)
