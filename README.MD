@@ -38,3 +38,19 @@ __Robotic projects:__
 12. [3D Gesture controlled robot](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Robotic%20projects/3D%20Gesture%20controlled%20robot.md)
 
 13. [Object sorting robot using image processing](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Robotic%20projects/Object%20sorting%20robot%20using%20image%20processing.md)
+
+14. [Obstacle avoiding robot](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Robotic%20projects/Obstacle%20avoiding%20robot.md)
+
+15. [Quadcopter using KK 2.15 module](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Robotic%20projects/Quadcopter%20using%20KK%202.15%20module.md)
+
+16. [RPi controlled robot with webcam](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Robotic%20projects/RPi%20controlled%20robot%20with%20webcam.md)
+
+__Safety enabling projects:__
+
+17. [IOT based smart health care](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Safety%20enabling%20projects/IOT%20based%20smart%20health%20care.md)
+
+18. [Railway crack detecting robot](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Safety%20enabling%20projects/Railway%20crack%20detecting%20robot.md)
+
+19. [Smart helmet for coal miners](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Safety%20enabling%20projects/Smart%20helmet%20for%20coal%20miners.md)
+
+20. [Smart wheel chair](https://github.com/Ruban-VP/Electronics-club-mini-task-1/blob/master/Safety%20enabling%20projects/Smart%20wheel%20chair.md)
